@@ -1,0 +1,6 @@
+c:\users\it manager\documents\visual studio 2015\Projects\DAEmu\DAEmu\bin\Debug\DAEmu.exe.config
+c:\users\it manager\documents\visual studio 2015\Projects\DAEmu\DAEmu\bin\Debug\DAEmu.exe
+c:\users\it manager\documents\visual studio 2015\Projects\DAEmu\DAEmu\bin\Debug\DAEmu.pdb
+c:\users\it manager\documents\visual studio 2015\Projects\DAEmu\DAEmu\obj\Debug\DAEmu.csprojResolveAssemblyReference.cache
+c:\users\it manager\documents\visual studio 2015\Projects\DAEmu\DAEmu\obj\Debug\DAEmu.exe
+c:\users\it manager\documents\visual studio 2015\Projects\DAEmu\DAEmu\obj\Debug\DAEmu.pdb
